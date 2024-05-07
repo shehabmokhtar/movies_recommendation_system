@@ -6,4 +6,4 @@ import pandas as pd
 dataset = pd.read_csv('./movies_dataset.csv')
 
 # Print the first 5 rows in the dataset
-print(dataset.head())
+print(dataset.head())   
